@@ -1,4 +1,4 @@
-**Introduction to the Ocean Health Index**
+Introduction to the Ocean Health Index
 
 Need for and Benefits of an Ocean Health Index
 
@@ -37,7 +37,33 @@ Phase One
  - Introducing the OHI+ Concept to Key Stakeholders
 
 Understand the Requirements of Conducting an OHI Assessment
- - Funding (suggested section, needs to be expanded)
+ - Funding
  - Data Availability
 
  Understand the Philosophy of the Index
+
+ Strategic Planning
+  - Considerations for Joint Planning
+  - Vision
+  - Objectives
+  - Spatial Scale
+  - Strategy
+  - Task Timeline
+  - Costs and Financial Planning
+  - Adaptive Management
+
+Outreach and Communications
+  - Outreach Strategy Strategy
+
+
+
+
+ Phase Three
+
+ Disseminating Findings
+
+ Communicate Results with Partners and Others
+
+ Develop and Implement Policies and Management Interventions that Respond to the Priorities
+
+ Monitor and Re-evaluate to Determine Policy Effectiveness and Set New Priorities
