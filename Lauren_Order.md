@@ -43,8 +43,7 @@ Understand_Requirements_for_Assessment.md
  - Conducting_a_Stakeholder_Analysis.md
  - Introducing_Concept_to_Stakeholders.md
 
- Strategic Planning
-  - Considerations_for_Joint_Planning.md
+Considerations_for_Joint_Planning.md
   - Vision.md
   - Objectives.md
   - Spatial_Scale.md
