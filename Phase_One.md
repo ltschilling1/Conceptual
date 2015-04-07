@@ -1,6 +1,6 @@
-**Phase One**
+**Phase One: Learn about the Ocean Health Index**
 
-There are three distinct and interconnected phases in the Ocean Health Index assessment process. This document describes Phase one.
+There are four distinct and interconnected phases in the Ocean Health Index assessment process. This document describes Phase one.
 
 In this section you will learn how to:
 

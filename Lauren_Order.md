@@ -1,69 +1,69 @@
 Introduction to the Ocean Health Index
 
-Need for and Benefits of an Ocean Health Index
+Need_For_and_Benefits_of_OHI.md
+
+Task_Timeline.md
+
+Phase_One.md
 
 Understand the OHI Framework: Status, Trend, Pressures, Resilience
 
-  - What is the Ocean Health Index?
+  - What_is_OHI.md
 
-  - Why Ten Goals?
+  - Why_ten_goals.md
 
-  - How are the Goals Weighted?
+  - How_Are_Goals_Weighted.md
 
-  - Reference Points
+  - Reference_Points.md
 
-  - How is the Index Calculated?
+  - How_Is_The_Index_Calculated.md
 
-  - Understanding Status
+  - Understanding_Status.md
 
-  - Understanding Trend
+  - Understanding_Trend.md
 
-  - Understanding Pressures
+  - Understanding_Pressures.md
 
-  - Understanding Resilience
+  - Understanding_Resilience.md
 
-Understand the Scales of Assessment: Global and Independent (OHI+)
+Understand_Philosophy_of_Index.md
 
-Task Timeline
+Understand_Scales_of_Assessment.md
 
-Phase One
+Determine_the_Need_and_Purpose.md
 
- - Determine the Need and Purpose of Conducting an OHI+ and How it Compliments Ongoing Initiatives and Efforts
+Phase_two.md
 
- Planning and Partnering with Decision Makers
+Understand_Requirements_for_Assessment.md
+ - Funding.md
+ - Data_Requirements.md
 
- - Who Should Be Involved?
- - Conducting a Stakeholder Analysis
- - Introducing the OHI+ Concept to Key Stakeholders
-
-Understand the Requirements of Conducting an OHI Assessment
- - Funding
- - Data Availability
-
- Understand the Philosophy of the Index
+ Planning_and_Partnering.md
+ - Who_Should_Be_Involved.md
+ - Conducting_a_Stakeholder_Analysis.md
+ - Introducing_Concept_to_Stakeholders.md
 
  Strategic Planning
-  - Considerations for Joint Planning
-  - Vision
-  - Objectives
-  - Spatial Scale
-  - Strategy
-  - Task Timeline
-  - Costs and Financial Planning
-  - Adaptive Management
+  - Considerations_for_Joint_Planning.md
+  - Vision.md
+  - Objectives.md
+  - Spatial_Scale.md
+  - Strategy.md
+  - Task_Timeline.md
+  - Costs_and_Financial_Planning.md
+  - Adaptive_Management.md
 
-Outreach and Communications
-  - Outreach Strategy Strategy
+Phase_three.md
 
+Phase_Four.md
 
+Outreach_and_Communications.md
+  - Communication_and_Outreach_Strategy.md
 
+ Disseminating_Findings.md
 
- Phase Three
+ Communicate_Results_with_Partners.md
 
- Disseminating Findings
+ Develop_and_Implement_Policies_and_Management_Interventions_that_Respond_to_the_Priorities.md
 
- Communicate Results with Partners and Others
-
- Develop and Implement Policies and Management Interventions that Respond to the Priorities
-
- Monitor and Re-evaluate to Determine Policy Effectiveness and Set New Priorities
+ Monitor_and_Re-evaluate_to_Determine_Policy_Effectiveness_and_Set_New_Priorities.md
