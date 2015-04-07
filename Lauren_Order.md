@@ -1,12 +1,8 @@
-Introduction to the Ocean Health Index
-
 Need_For_and_Benefits_of_OHI.md
 
 Task_Timeline.md
 
 Phase_One.md
-
-Understand the OHI Framework: Status, Trend, Pressures, Resilience
 
   - What_is_OHI.md
 
